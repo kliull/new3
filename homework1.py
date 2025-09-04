@@ -49,6 +49,7 @@ def count(str_1):
     return helper[0]
 
 
+
 str1 = input()
 p = sort_1(str1)
 print(count(p))
